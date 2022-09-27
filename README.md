@@ -1,7 +1,7 @@
 # <4-letters-ff-code>-client-full-name
 >Avoid using abbreviations for client names, eg, please use david-jones instead of DJ.
 
-Centralised README repository for <4-letters-ff-code>-<client-full-name>
+Centralised README repository for <4-letters-ff-code>-client-full-name
 
 ### Project list
 > - &check; checked
